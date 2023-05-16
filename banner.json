@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "name": "集多仓库",
+      "pic": "https://pan.shangui.cc/f/pkxHL/8.jpg",
+      "url": "https://blog.yinuoqianjin888.repl.co/",
+      "type": "search",     
+      "desc": "",
+      "show": true
+    },
+      {
+      "name": "阿凡达：水之道",
+      "pic": "https://images.weserv.nl/?url=https://pic3.iqiyipic.com/lequ/common/lego/20230328/20362e7bd73746afbed9202c836eb823.jpg",
+      "url": "",
+      "type": "search",     
+       "desc": "电影",
+      "show": true
+    },
+    {
+      "name": "春闺梦里人",
+      "pic": "https://puui.qpic.cn/tv/0/1249873327_1920800/0",
+      "url": "https://www.chuandi.cc/vodplay/280264-15-1.html",
+      "type": "search",     
+       "desc": "电视剧",
+      "show": true
+    },
+    {
+      "name": "鬼吹灯之南海归墟",
+      "pic": "https://puui.qpic.cn/tv/0/1249696808_1920800/0",
+      "url": "",
+      "type": "search",     
+       "desc": "电影",
+      "show": true
+    },
+    {
+      "name": "与卿书",
+      "pic": "https://0vimg.hitv.com/100/2303/0217/2335/bXZwaXZibw__/Nvb2uq.jpg",
+      "url": "",
+      "type": "search",     
+       "desc": "电视剧",
+      "show": true
+    },
+{ "name": "沈庆 青春", "pic":"https://user-images.githubusercontent.com/128656815/233700319-83e874a5-c637-4b4f-b5f1-eca608c56104.png", "url":"https://files.fm/f/dz9ux79cs", "type": "search", "desc": "电视剧", "show": true }, { "name": "老狼 恋恋风尘", "pic":"https://user-images.githubusercontent.com/128656815/233699881-7f760dc1-461e-4fcf-a41a-c5eeca2e726c.png", "url":"https://files.fm/f/8es4c3k9n", "type": "search", "desc": "电影", "show": true } ，
+    {
+      "name": "在线音乐",
+      "pic": "https://n.sinaimg.cn/sinakd20211128s/200/w1080h720/20211128/2447-51ad484529844bb4c774eaf02b573679.jpg",
+      "url": "http://music.iztyy.com/",
+      "type": "search",     
+       "desc": "集多在线听音乐",
+      "show": true
+    }
+  ]
+}
